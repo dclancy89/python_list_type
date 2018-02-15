@@ -42,3 +42,7 @@ elif strcount != 0 or intcount != 0 or floatcount != 0:
 	if len(s) != 0:
 		print "String: " + s
 	print "Sum: ", su
+
+
+
+# You could possibly get a list with a list in it and the program wouldn't know how to handle it.
