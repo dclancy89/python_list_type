@@ -1,6 +1,7 @@
 #l = ['magical unicorns', 19, 'hello', 98.98, 'world']
 #l = [2,3,1,7,4,12]
 #l = ["magical", "unicorns"]
+l = [1.2, 3.4, 9384.344]
 
 
 s = "" 			# new string
